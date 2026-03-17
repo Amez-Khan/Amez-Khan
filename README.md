@@ -3,7 +3,7 @@
 I am a **Mobile Software Developer** with over 4 years of experience building scalable, end-to-end enterprise applications for Android and iOS using Flutter. I specialize in clean architecture, robust state management, and complex API integrations.
 
 ### 🚀 Featured Project
-* **[Smart Expense Manager](Link_To_Your_Repo_Here):** A comprehensive Flutter application showcasing production-grade code. Built to demonstrate clean architecture, robust state management (BLoC), and seamless local/cloud data handling. 
+* **[Smart Expense Manager](https://github.com/Amez-Khan/smart-expense-manager):** A comprehensive Flutter application showcasing production-grade code. Built to demonstrate clean architecture, robust state management (BLoC), and seamless local/cloud data handling. 
 
 ### 👨‍💻 About Me
 - 💼 Currently working at **Marami Infotech Limited** building high-performance Real Estate ERP suites.
